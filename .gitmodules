@@ -1,3 +1,6 @@
 [submodule "tdse-tp1_00-problem_approach"]
 	path = tdse-tp1_00-problem_approach
 	url = https://github.com/RMantaras/tdse-tp1_00-problem_approach.git
+[submodule "tdse-tp1_01-my_first_statechart"]
+	path = tdse-tp1_01-my_first_statechart
+	url = https://github.com/RMantaras/tdse-tp1_01-my_first_statechart.git
