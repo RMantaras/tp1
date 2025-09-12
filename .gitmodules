@@ -4,3 +4,6 @@
 [submodule "tdse-tp1_01-my_first_statechart"]
 	path = tdse-tp1_01-my_first_statechart
 	url = https://github.com/RMantaras/tdse-tp1_01-my_first_statechart.git
+[submodule "tdse-tp1_02-sensor_statechart"]
+	path = tdse-tp1_02-sensor_statechart
+	url = https://github.com/RMantaras/tdse-tp1_02-sensor_statechart.git
