@@ -10,3 +10,6 @@
 [submodule "tdse-tp1_03-actuator_statechart"]
 	path = tdse-tp1_03-actuator_statechart
 	url = https://github.com/RMantaras/tdse-tp1_03-actuator_statechart.git
+[submodule "tdse-tp1_03-system_statechart"]
+	path = tdse-tp1_03-system_statechart
+	url = https://github.com/SantangeloEzequiel/tdse-tp1_03-system_statechart.git
